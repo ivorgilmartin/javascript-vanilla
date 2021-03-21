@@ -1,5 +1,5 @@
 # strings
 
 <p>
-  <img src="./strings.PNG" width="40%">
+  <img src="./strings.png" width="40%">
 </p>
