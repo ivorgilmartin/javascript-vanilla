@@ -1,5 +1,5 @@
 # arrays
 
 <p>
-  <img src="./arrays.png" width="50%">
+  <img src="./arrays.png" width="60%">
 </p>
