@@ -1,4 +1,4 @@
-# strings
+# inventory
 
 <p>
   <img src="./inventory.png" width="40%">
