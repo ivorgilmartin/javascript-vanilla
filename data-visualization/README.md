@@ -1,5 +1,5 @@
-# data-visualisation
+# data-visualization
 uses the Chart.js library to visualize datasets
 <p>
-  <img src="./data-visualisation.png" width="80%">
+  <img src="./data-visualisation.png" width="100%">
 </p>
